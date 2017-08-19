@@ -6,7 +6,7 @@
 (global-set-key (kbd "C-h f") 'counsel-describe-function)
 (global-set-key (kbd "C-h v") 'counsel-describe-variable)
 
-
+(global-set-key (kbd "C-c f") 'counsel-git)
 ;;  (global-set-key (kbd "M-x") 'smex)
 ;;(global-set-key (kbd "M-X") 'smex-major-mode-commands)
 ;; This is your old M-x.

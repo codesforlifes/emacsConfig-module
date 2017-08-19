@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ counsel-git
  list-packages
  popwin-mode
  eval-buffer
  eshell
  package-list-packages
  menu-bar-mode
- racket-mode
 )
 
 ;; ----- smex-data -----
@@ -28,4 +28,5 @@
  (list-packages . 2)
  (package-list-packages . 1)
  (popwin-mode . 2)
+ (counsel-git . 2)
 )
