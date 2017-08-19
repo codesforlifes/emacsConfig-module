@@ -1,12 +1,3 @@
-gcc -Wall -o hello test.c
-gcc -Wall -o hello test.c
-./hello 
-ls
-ls -l
-cd emacs-git/
-ls
-cd emacs/
-ls
 cat README.md
 ls
 cd ../
@@ -113,3 +104,25 @@ ls
 mkdir soft
 cd soft/
 git clone https://github.com/cisco/ChezScheme.git
+ls
+touch
+git
+git -vesion
+git --version
+cd .emacs.d/
+ls auto-save-list/
+ls -l 
+git init
+ls 
+git diff
+git diff
+rm -r auto-save-list
+lshw
+ls 
+touch .gitignore
+ls
+ls -l 
+cat .gitignore
+vim .gitignore
+emacs .gitignore
+exit

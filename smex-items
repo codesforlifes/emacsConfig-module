@@ -1,19 +1,19 @@
 
 ;; ----- smex-history -----
 (
- menu-bar-mode
  eval-buffer
  eshell
+ package-list-packages
+ list-packages
+ menu-bar-mode
  racket-mode
  mail-mode
- emmet-mode
- org-agenda
 )
 
 ;; ----- smex-data -----
 (
- (eval-buffer . 14)
- (eshell . 8)
+ (eval-buffer . 15)
+ (eshell . 9)
  (customize-group . 3)
  (js2-mode . 1)
  (nodejs-repl . 1)
@@ -25,4 +25,6 @@
  (mail-mode . 2)
  (racket-mode . 1)
  (menu-bar-mode . 1)
+ (list-packages . 1)
+ (package-list-packages . 1)
 )
