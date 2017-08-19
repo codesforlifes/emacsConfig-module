@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ list-packages
+ popwin-mode
  eval-buffer
  eshell
  package-list-packages
- list-packages
  menu-bar-mode
  racket-mode
- mail-mode
 )
 
 ;; ----- smex-data -----
@@ -25,6 +25,7 @@
  (mail-mode . 2)
  (racket-mode . 1)
  (menu-bar-mode . 1)
- (list-packages . 1)
+ (list-packages . 2)
  (package-list-packages . 1)
+ (popwin-mode . 2)
 )
