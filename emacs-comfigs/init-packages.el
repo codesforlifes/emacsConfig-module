@@ -70,10 +70,6 @@
 	   auto-mode-alist))
 
 ;; company config-changed-event
-;; company 延时0.1s
-(setq-default company-idle-delay 0.1)
-;; company 在出现一个字的时候就启动
-(setq-default company-minimum-prefix-length 1)
 
 (require 'smartparens-config)
 ;; Always start smartparens mode in js-mode.
