@@ -1,0 +1,22 @@
+;; ================模块分割=======================
+
+;; 包管理模块
+
+(add-to-list 'load-path "~/.emacs.d/emacs-comfigs/")
+
+;; 提供服务
+
+(require 'init-packages)
+
+(require 'init-ui)
+
+(require 'key-bind)
+
+(require 'custom)
+
+(require 'init-better-default)
+;; ================模块分割=======================
+
+
+
+
