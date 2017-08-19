@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ menu-bar-mode
+ eval-buffer
+ eshell
+ racket-mode
+ mail-mode
+ emmet-mode
+ org-agenda
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 14)
+ (eshell . 8)
+ (customize-group . 3)
+ (js2-mode . 1)
+ (nodejs-repl . 1)
+ (nodejs-repl-send-line . 1)
+ (find-variable . 1)
+ (info . 1)
+ (org-agenda . 2)
+ (emmet-mode . 4)
+ (mail-mode . 2)
+ (racket-mode . 1)
+ (menu-bar-mode . 1)
+)

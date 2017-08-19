@@ -1,0 +1,115 @@
+gcc -Wall -o hello test.c
+gcc -Wall -o hello test.c
+./hello 
+ls
+ls -l
+cd emacs-git/
+ls
+cd emacs/
+ls
+cat README.md
+ls
+cd ../
+cd ../
+rm emacs-git/
+ls
+ls -l
+rm emacs-git/
+rm emacs-git
+ls
+ls
+cd 学习/
+mkdir asm-demo
+ls
+as exit.s -o exit.o
+ld exit.o -o exit
+./exit 
+echo $?
+node test.js 
+ls
+cd ../
+cd ../
+ls
+cd 文档/
+ls
+cd 学习笔记/
+emacs 汇编笔记
+ls
+cd 学习/
+ls
+mkdir del
+cd d
+cd del/
+touch for-test.js
+emacs for-test.js 
+ls
+rm %E8%A7%86%E9%A2%91.zip.aria2
+ls
+rm 
+rm 
+rm %E8%A7%86%E9%A2%91.zip.aria2
+ls
+rm %E8%A7%86%E9%A2%91.zip 
+ls
+cd 学习/
+ls
+cd del/
+ls
+emacs for-test.html
+cat .emacs
+cd emacs-git/
+ls
+cd emacs/
+ls
+touch .emacs
+cd ../../
+cp .emacs emacs-git/emacs/.emacs
+cat emacs-git/emacs/.emacs
+cp .emacs emacs-git/emacs/.emacs
+cat emacs-git/emacs/.emacs
+ls
+cd 学习/
+ls del/
+emacs for-test.js
+node for-test.js 
+ls
+mkdir org
+cd org/
+touch 1.org
+ls
+../ 
+cp .emacs emacs-git/emacs/.emacs
+cat emacs-git/emacs/.emacs
+cd emacs-git/
+git remote -v
+cd emacs/
+git remote -v
+git status
+git add .
+git status
+git commit -m " 优秀emacs config"
+git push origin master
+google-chrome github.command
+ls
+cd .emacs.d/
+ls
+cd elpa/
+ls
+cp .emacs emacs-git/emacs/.emacs
+cd emacs-git/emacs/
+git status
+git add .
+git commit -m "添加emmet"
+git push origin master
+git push origin master
+ls
+cat .emacs
+ls
+cat README.md 
+LS
+EXIT
+exit
+ls
+mkdir soft
+cd soft/
+git clone https://github.com/cisco/ChezScheme.git
